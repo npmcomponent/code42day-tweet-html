@@ -1,3 +1,4 @@
+*This repository is a mirror of the [component](http://component.io) module [code42day/tweet-html](http://github.com/code42day/tweet-html). It has been modified to work with NPM+Browserify. You can install it using the command `npm install npmcomponent/code42day-tweet-html`. Please do not open issues or send pull requests against this repo. If you have issues with this repo, report it to [npmcomponent](https://github.com/airportyh/npmcomponent).*
 [![Build Status](https://secure.travis-ci.org/code42day/tweet-html.png)](http://travis-ci.org/code42day/tweet-html)
 [![Dependency Status](https://gemnasium.com/code42day/tweet-html.png)](https://gemnasium.com/code42day/tweet-html)
 [![NPM version](https://badge.fury.io/js/tweet-html.png)](http://badge.fury.io/js/tweet-html)

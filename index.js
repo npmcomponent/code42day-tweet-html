@@ -1,10 +1,10 @@
-var moment = require('moment');
+var moment = require('component-moment');
 var el;
 
 if ('undefined' == typeof window) {
   el = require('el-component');
 } else {
-  el = require('el');
+  el = require('code42day-el');
 }
 
 
